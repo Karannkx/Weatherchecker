@@ -1,7 +1,6 @@
 # Weather Checker
 
-![Weather App Logo](https://github.com/Karannkx/Weatherchecker/blob/main/imxge.png)
-
+![logo](https://res.cloudinary.com/dzqzuljun/image/upload/v1695999784/imxge.jpg)
 ## Overview
 
 The Weather Checker Website is a user-friendly tool that provides real-time weather information for locations worldwide. This application allows users to check the current weather conditions, including temperature, humidity, wind speed, and more, for any city or location they choose.
@@ -16,7 +15,7 @@ The Weather Checker Website is a user-friendly tool that provides real-time weat
 
 ## How to Use
 
-1. Visit the Weather Checker Web Application website at [https://karannkx.github.io/weatherchecker](https://karannkx.github.io/weatherchecker).
+1. Visit the Weather Checker Web Application website at [https://karannkx.github.io/weatherchecker](https://karannkx.github.io/wchecker).
 
 2. Enter the name of the city or location you want to check the weather for in the search bar.
 
